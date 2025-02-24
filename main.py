@@ -125,7 +125,7 @@ twitch_miner.mine(
         Streamer("andr3wow", settings=StreamerSettings(make_predictions=False , follow_raid=True  ,                     watch_streak=True ,                                                                                                                                                                                                                                                       )),
         Streamer("thiefs", settings=StreamerSettings(make_predictions=True  , follow_raid=True  , claim_drops=True ,  watch_streak=True , community_goals=True  , bet=BetSettings(strategy=Strategy.HIGH_ODDS  , percentage=7 , stealth_mode=True,  percentage_gap=20 , max_points=90    , filter_condition=FilterCondition(by=OutcomeKeys.PERCENTAGE_USERS, where=Condition.GTE, value=300 ) ) )),
         Streamer("japanesecurry"),
-        Streamer("streamer-username07"),
+        Streamer("injusticefps"),
         Streamer("streamer-username08"),
         "streamer-username09",
         "streamer-username10",
